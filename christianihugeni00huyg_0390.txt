@@ -1,0 +1,36 @@
+(44)
+
+diametre du cerole gener. BC, comme deux sois OC ὲ ΑΟ. ce
+qu'il falloit dem.
+
+Il est 32 noter que ces epicyeloides sont des lignes geometriques‚
+quand les diametres des cereles generateur et immobile sont com-
+mensurables.
+
+Prop. 3³. Spatium epicycloide et basi sua comprehensum est ad
+circulum genitorem epicycloidis , ut tripla semidiameter circuli
+baseos cum diametro circuli genitoris ad radium circuli baseos.
+
+Dans la mesme figure (fig. 19) soit pris un autre point Q dans
+l’epieyeloide BQK , pres du point E, et soit QP sa tangente, qui
+rencontrera donc l'epicycloide Κ ΗΝ ὲι angles droits ‚ comme en P,
+et coupera necessairement la circonference CK3 prenons que ce soit
+en R. Or, les points de contact E {Q ‚ peuvent estre infinement pres
+l’un de l'autre, et aussi les points d’intersection G, R, la raison
+de HG ὲ GE et de PQ ὲ Q P. demeurant toujours les memes que
+de VD ὲ DG. Partant HQP‚ GQR, peuvent estre considerez
+comme des triangles‚ desquels la proportion est la mesme que du
+qu. HE au qu. EG, ou du qu. VD au qu. DG. Dono tout l'es-
+pace ΒΕΚΝ h l’espace BEKC aura la raison du qu. V D au qu.
+DG , parce qu'en coneevant des tangentes infinies, le long de la
+courbe BQK, elles diviserunt tout l'espace KPNBQK en une in-
+finite de triangles‚ tels que P QH, qui auront chacun ὲ leur partie
+RQG la mesme raison que le qu. HE au qu. EG, ou que le qu.
+VD au qu. DG. Dono aussi, dividendo, l'espace K HNC sera ἐι
+BEKC comme l'exces du qu. VD sur le qu. DG est au qu.
+DG3 mais l’espace BEKL est ὲ KHNC comme le qu. DG au
+qu. GV, donc, ex aequo in proportione perturbata, l’espace BEKL
+sera ὲ BEKC, comme le qu. VD ÷ qu. DG au qu. GV, c’est-h—
+dire comme le rectangle de VG÷2G D et VG au qu. VG ‚ ou com-
+me VG÷2DG ὲ VG. Et l'espace BEKL ὸ BLKC comme
+

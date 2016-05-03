@@ -1,0 +1,34 @@
+(238)
+
+bien imaginee, dont la somme des unes ne m’a point retal-de, parce
+que J’en avois rencontre' des semblables. Pour l’autre somme il me
+paroist que vous l'avez reduite a la quadratura de l’hyperbole, en y
+reduisant la courbe dont l’equation est asszyff (a2-1-qs2) zat, ce
+qui doit estre possible ‚ mais il n’est pas aise; et si vous avez quel—
+que regle pour cela, ce que je seray fort aise de scavoir‚ je l’estime
+extremement. J’entrevois un autre chemin, par οιὶ vous pourriez
+avoir passe, qui est de trouver qu’a la soutangente y V(a2÷qj2) :a
+convient vostre courbe geometrique ιιΞ-αΙ-ι-2α2 z V2=2 y22‚ mais ce
+chemin est plus detourne ‚ et la difficulte 11’est pas petite de trouver
+la courbe pour cette soutangente donne'e. J 'avoue que je n'ay gueres
+approfondi ees mafieres, m'estant exerce principalement a appliquer
+la geometrie a d’autres speculations ou elle peut avoir quelque usage.
+Je scay bien que ces quadratures des courbes et le probleme renverse
+des tangentes en bien des occasions peuvent estre de fort grande
+utilite ‚ mais voiant le progres que Mrs. Leibnitz‚ Fatio et Newton
+y avoient faits, devant que j’y eusse songe‚ J’ay tasehe plustost de
+profiter de leur travail que de me mettre a chercher apres eux,
+surtout depuis que Mr Fatio m'a fait esperer la publication d’un
+traite de Mr. Newton sur ee sujet‚ qui, a son aviS‚en scait bien
+plus que luy et Mr. Leibnitz ensemble.
+
+J’ay remarque en examinant vostre invention, qu'on peut aussi
+trouver la surface du solide mesme infini, que fait une portion dela
+logarithmique en tournant sur la soustangente ‚ c'est-a-dire luy trou-
+ver un cercle egal ‚ en se servant comme vous ,Monsieur ‚ de la ligne
+mesine, d'ou s'ensuivent les centres de gravite des portions lineaires.
+J’ay aussi determine le cercle qui mesure sa plus grande courbure3
+mais tout cela est aise et nullcment comparable a ce que vous avez
+fait. Vous scavez fort bien l'usage , a ce que je vois, des dx et dy
+dc Mr. Leibnitz, qui assui-ement ἐι quelque chose de sort bon cn ce
+

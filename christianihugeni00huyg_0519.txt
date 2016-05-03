@@ -1,0 +1,37 @@
+(175)
+
+aequalia CS ‚ D Q. Ergo ex aequo erit ut Hs ad Gs ‚ ita OQ ad
+PQ. Erat autem GS major quam HS, ergo et PQ maj0r quam
+OQ Unde apparet punctum C esse a parte convexa curvae AB.
+Eodem modo autem et punctum N, sumtum ab altera parte puncti B,
+ostenditur cadere ad partem convexam curvae AB. Ergo tangit
+eam recta NBOF in puncto Β. Quod erat dem.
+
+Longitudo lineae C E vel DF ‚ quus ope tangens in quovis puncto
+«luci potest, non potest ratione ulla geometrica, nt puto, inveniri,
+sed ex legarithmis quamlibet proxime. Nam si consideremus trian-
+gulum minimum AVX , quus latus AX tam curvae AB quam tan-
+gentis ΑΕ portio censendum est, et perpendiculares Ac, ΧΥ,
+duos numeros esse putemus ‚ minimo quodam excessu sese superantes ‚
+ut 100000 et 99999‚ erit VX vel CY legaritlunorum ipsorum dif-
+
+ferentia, quae inter istos est 43430, *ut patet ex tabuliS. Jam si
+igitur fiat ut A V, quae est l ‚ ad VX ‚ 43430, ita AC , 100000 ad
+G E ‚ fiet haec 4343000000, qualium nempe differentia inter loga-
+rithmus numerorum 100000 et 99999 est 43430, qualiumque legarith-
+mus binarii est 3010299957. Linea autem ,quae referat legarithmum
+binarii facile invenitur, applicando tantum (luas perpendiculares inter
+curvam et asymptoton, quarum altera sit alterius dupla ‚ velut Gs,
+MR3 nam S R intervallum referet logarithmum binarii. Ergo si fiat
+ut 30102 ad 43430, hoc est proxime ut 3 ad 45, ita SR ad aliam;
+ea erit linea ΟΕ vel D F, quam latus rectum curvae hujus
+appellabimus. Invenitur autem adhuc accuratius, si loco numero·
+rum 100000 et 99999, quaeratur per numeros l et lm?
+fit enim ΟΕ 434294481903251804, qualium logarithmus binarii est
+301029995663981195, Patebit autem usus hujus lateris recti in
+sequentibus.
+
+Si 3 puncto quolibet in curva sumto ‚ ut A (fig. 68), dimittatur in
+
+asymptoton perpendicularis AB, dico rectangulum ab AB et latere
+

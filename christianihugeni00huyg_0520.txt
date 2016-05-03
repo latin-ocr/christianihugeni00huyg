@@ -1,0 +1,39 @@
+(176)
+
+recto BF comprehensum, nempe ABFE, aequari spatio infinito
+inter curvam, perpendicularem AB et asymptotou ΒΖ interjecto,
+
+Fiat enim primo in eodem latere A B rectangulum quoddam AH,
+qued majus sit rectangulo A F. Dico illud majus quoque esse dicto
+spatie infinito. Ductis enim diagoniis AF, ΑΗ, rectangulerum
+utrorumque, constat quidem AF tangere curvam in A, quia BF
+ponitur esse latus rectum, unde pars quaedam lineae A H cadet
+intra curvae cavam partem, puta AK. Dividatur ΑΗ in partes
+tot aequales , punctis L , M, N ‚ ut earum quaelibet sit minor quam
+AK. Et ductis per ea puncta rectis parallelis AB, divident ea
+rectangulum A H in rectangula aequalia, ut sunt, A R , QT ‚ etc. Al.
+iisdem vero punctis si ducantur parallelae asymptoti lineae LO, MA,
+Ν C ‚ et a punctis‚ubi hae occurrunt curvae A C , dimittantur perpen-
+
+diculares iu asymptoton 9 velut O Y, Λ Π , C Z ‚ fient etiam spatia inter
+binas quasque earum interjecta iuter se aequalia, ut sunt AO YB‚
+
+ΟΛΠ Υ, ΛΟΖΠ, ac denique etiam infimum spatium infinitum
+CZD, ut constat ex praecedentibus, quia nempe differentiae
+duarum perpendicularitun, dicta spatia comprehendentium, sunt
+ex constructione aequales, Jam vero rectaugulum AR majus esse
+liquet spatio AOYB, eum hoc illius pars sit3 nam ΟΥ necessario
+cadit inter AB et LR. Ergo et rectangulum SR majus erit spatio
+ΟΥΠΛ, quippe quod aequale est spatio AOYB, Item rectangulum
+VT majus erit spatie ΛΠΖΟ, atque ita singula rectangula, si
+plura serent, singulis sequentibus spatiis, quum par utrorumque sit
+numerus, Denique ultimum rectangulum VH maJus quoque spatio
+infimo ae infinito CZD. ltaque omnia rectangula omuibus simul
+spatiis3 hoc est rectangulum ABHG spatio infinito AB D C maJus
+erit.
+
+Esto rursus rectangulum quoddam ABHG, (fig. 69) quud sit
+
+minus rectangulo A B F E3 dico illud minus quoque esse spatio infi-
+nito
+

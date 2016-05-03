@@ -1,0 +1,34 @@
+(106)
+
+promet la solution; scavoir quand l'angle loxodromique est donne
+(16. 89 degres, combien de tours entiers et de degrez de longitude
+1131· (1655115 fera un vaisseau‚ en partant d'un point sous la ligne
+equinoctiale pour arriyer a 13 latitude de 89 degrez‚ et combien il
+sera distant alors du point de depart, le tout sans tables. Je l’a)¹
+calcule par plaisir et J’y trouve 43 tours 85ο 57’. 011 116 connoissoit
+pas encore 611 66 temps 13 13 quadrature (16 l’I-Iyperb01e3 mais ce
+Girard avoit penetre' bien avant dans plusieurs matieres (16
+Geometrie‚ comme je vois par quelques endroits de cesmemes notes.
+ll 56 trompe pourtant 311 commentaire sur la statique par cordages
+au sujet de 13 courbure de 13 ligne qui plie par son poids ‚ laquelle
+courburc il ,pretend estre parabolique, et qu'il en a la demonstration.
+
+Ma maniere abbregee pour trouver les sommes des secantes, que
+vous voulez scavoir‚ est telle. J'ajonte ensemble les secantes des
+arcs croissant par degrez entiers ou par demi-(legra, jusques ἒι
+l’angle donne. De leur somme j’oste 13 11101116 (16 1’6Χ665 dont la
+plus grande de ces secantes surpasse le rayon. Alors le reste aura
+31 la somme d’autant de rayons fort pres la mesme raison (tontes
+fois un 11611 111115 grande) (1116 la somme (111 nombre infini (16 secantes
+comprises (lans l'angle (1011116, a 13 somme d'un pareil nombre (16
+1310115. Ρ31 6Χ61111116 311 rayon 10000 la somme des secantes par
+demi-degrez Jusques 3 45 (legrez inclusivcment est 1012061, d'un
+j'oste 2071, 11101116 (16 l'exces de 13 secante de 450 par dessus le
+rayon‚ reste 1009990, qui aura a la somme (16 90 rayons 011 900000
+un peu plus grande raison que 16 nombre infini des secantes Ξι 1131611
+nombre de rayons. Je trouve aussi un terme mineur qui cst 1009976,
+et qui est plus pres du vray ‚ mais il y a 11116 reglc (16 trois ἐι faire.
+Suivant la Table de Sncllius qu'il appello canonica parallelorum ‚ 13
+501111116 (165 secantes jusqu'a 45 (legrez par minutes est 30297320,
+quand 16 rayon est 10000. 11 l’a poso de 10000000, pour faire 16
+

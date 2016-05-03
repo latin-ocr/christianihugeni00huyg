@@ -1,0 +1,44 @@
+(24)
+
+Ratio inveniendarum tangentium in curvis lineis.
+
+Ponatur (fig. 11) CDesse tangens quaesita in puncto C, in ea
+proxime puncto C accipi intelligitur punctum D, quod idem in curva
+proposita esse censetur. Ex D cadant perpend. in AC et BC,
+nempe DF, DE. Recta AC superare censetur rectam AD diffe-
+rentia FC, quia DF minima respectu AF. Item BD superare
+censetur rectam B C differentia ΟΕ. CE vocatur sc, CF y, qua-
+rum si inter se ratio cognoscatur ‚ dabitur D punctum in concursum
+perpendicularium ΕΙ), FD, adeoque tangens CD. Ista vero ratio
+investigatur ex aequatione , in qua ponitur parte una proprietas
+curvae lineis datis A C , CB expressa, parte altera eadem proprietas
+expressa lineis AD, DB, seu pro iis AF, ΕΒ. Vel tantummodo
+exprimatur proprietas curvae positis α-ι- ,τ et h—qs pro a et b, ct
+deleantur omnia praeterquam in quihus unum a: aut y ‚ et deleantur
+etiam in quibus a: et y conjunctim. Reliqua dabunt rationem :cad
+y ac proinde tangentis constructionem.
+
+Praeceptum suum Hugenius nonnullis exemplis illustravit, veluti,
+si BC sit a, et AC vocetur b, ellipseos natura ea erit, ut semper
+a÷b=d‚ si nempe d sit linea data. Hinc, si in ista aequatione
+pro a substituatur a -1-x, et pro b, 31— b, habebimus:
+
+a -†- a· -ξ- b — y = d.
+
+Sive ‚ quoniam a÷b=d‚ x-yzo. Unde xzy. Quae aequatio
+significat angulum ECF a tangente bifariam dividi.
+
+Parabolae ‚ cujus abscissae vocantur α , ordinatae b, incrementa
+abscissarum :c , et ordinatarum y, latus vero rectum r, haec erit
+aequatio ( ¹ )
+
+arzbb,
+ιιι
+
+ 
+
+(1) Animadvertendum est h. l. llugenium ipsa parabolae natura quasi coactum fuisse .
+ut suam methodum ad hujus curvae abscissas et ordinatas applicaret. Quid mirum quod
+
+et hie eventus methodum comprobaverit!
+

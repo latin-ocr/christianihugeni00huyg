@@ -1,0 +1,34 @@
+(54)
+
+la ligne estre telle que :cs y estant en progression geometrique , 2oe y
+ou meme :cy sont en progression arithmetique. On peut proposer
+de semblables problemes en nombres, par exemple soit xx ÷x=3o‚
+alors on satisfera faisant x: 3. Et ces problemes ne se peuvent
+construire geometriquement que par les lignes dont je me sers , lors-
+que les racines ne sont pas rationelles. Et J'e croirois avoir perfec-
+tionne l’Analyse , si je pouvois touj0urs reduire les quantites tran-
+scendantes a un tel calcul. Et je seray bien aise de scavoir ce qui
+vous en semblera maintenant que le proces est asses instruit pour que
+vous puissies donner arrest.
+
+Vous reconnoitres peut—estre aussi que Je n’ay pas eu tant de tort
+de dire que ma maniere de calculer sert pour les problemes des
+tangentes donnees. Quand J’avois vu que vos deux lignes propo-
+sees estoient in potestate, je m’estois contente d'en calculer l’une,
+qui venoit plus aisement, et j'attendois pour donner l’autre d'ap-
+prendre si elles pouvoient servir. Mais je voy que vous les avies
+proposees tentandi gratia. Neantmoins j’ay este bien aise de
+voir si Je vous pourrois donner satisfaction depuis que J’ay vu
+que la premiere n’avoit pas trouve une audience favorable. cepen-
+dant je ne me vante pas d’avoir pousse cette methode asa perfection.
+ΙΙ s’agit sans doute de ce qu'il y a de plus profond et de plus diffi-
+cile dans la Geometrie et dans l'Analyse. Mais je puis dire que je
+u'en suis pas fort eloigne et j’espererois d’en venir a bout si j'avois
+lc loisir qu’il faut. Ce qu’il y a de beau entre autres, dans cette
+methode, est qu’elle mene directement ὲ des transcendantes, com-
+me elle doit aussi, puisque ordinairement on y doit venir dans ces
+questions, a peu pres comme ordinairement les racines des equa—
+tions sont sourdes. Mais lorsque les courbes ordinaires peuvent
+satisfaire, les transcendantes memes le monstrent. J’ay une autre
+maniere particuliere qui reussit toutes les fois que la courbe est
+

@@ -1,0 +1,40 @@
+(5⁷)
+
+la ligne A B, si elle estoit perpendiculaire ala tangente, devoit estre
+egale d’un et d'autre coste de cette ligne. Ensuite il erut que,
+ces distances, depuis les centres de gravite des fils au point B,
+estant egales d'un coste et d’autre ‚ cela ne convenoit pas au
+centre de gravite. Mais s’il avoit mene des points D des sinus sur
+AB, il auroit vu qu'ils estoient chacun egaux aux perpendiculaires
+de B sur les lignes AN, et qu'ainsi AB estoit le vray axe de
+pesanteur des fils»
+
+Ceterum pulcra Duillierii inventio , quam in ipsa hac nota comme-
+morat Hugenius, de sinuum summa, arcte cohaeret cum proble-
+mate (16 tangentibus ducendis ad curvaS, quarum haec natura est,
+ut summa distantiarum puncti cujuslibet curvae ad duo plurave
+alia positione data semper sit aequalis lineae datae. Quoad hoc pro-
+blema sequentia in eodem libro F. p. 230. ab Hugenio fuere litteris
+consignata. (Fig. 25 )
+
+υ A,ss ‚ C, puncta data in linea recta vel utcunque. KDK cur-
+va ejusmodi naturae, ut, ductis ad ejus punctum quodlibet rectis
+A D , B D ‚ C D , harum summa sit datae rectae aequalis. Quaeritur
+tangens in D.
+
+Sit ea DE, et E punctum proximum D, idque censendum in
+curva existere. Ab E in rectas A D, BD , CD, si opus sit productas,
+cadunt perpend. EG, ΕΗ, EF.
+
+Ergo si ex A, B, C, ducerentur rectae ad E , crescet ea, quae
+ex C, longitudine EF, quae ex Β diminuetur longitudine DH,
+quae ex A diminuetur item longitudine DG. Ergo ut summa duc-
+tarum ex A , B ‚ C ad E sit aequalis tribus ex A, Β , C, ad D ductis,
+hoc est rectae datae , oportet DF aequari duabus DH, DG.
+
+Sit tangenti DE perpendicularis DL, et ex D descripta circumn
+ferentia secet rectas AD, BD, CD in M, Ο, Ν, 1111(16 ducantur
+in DL perpendiculares MQ, ΟΒ, ΡΝ. Quod si jam pro radio
+
+H
+

@@ -1,0 +1,33 @@
+(92)
+
+et ipso calculi lusu nascantur, quae alias vi ingenii aut labore
+imaginationis assequi necesse est. Nec aliam ego causam video,
+cur cl. Fatius‚ qui Jam dudum praeclari ingenii specimina nobis
+dedit , haeserit ubi irrationales subtangentialis valorem ingrediuntur ,
+velut in casu per celeberrimum Hugenium mihi proposito, ubi
+tzyyy(aa÷xx):ax, quam quod hujusmodi expressio non
+aeque calculo analytico apta est, ac mea ‚ per quam ipsius t relatio
+ad qs eta: aliquo modo generali exprimitur. Ita enim judico, cum
+mens humana ad cogitandum notis indigeat, eo posse nos ratiocinari
+melius, quo magis notae ipsae exprimunt rerum relationes.
+Consideravi igitur tam abscissas quam ordinatas habere elementa
+quaedam momentanea, seu differentias indefinite parvas; et elemen-
+tum abscissae esse ad elementum ordinatae, ut subtangentialis ad
+ordinatam. Nam si cogitemus punctum mobile B ex fixo A egre-
+diens percurrere axem A B (B), et adeo abscissas AB nihil aliud
+esse quam distantias puncti B mobilis a puncto fixo A, patet incre·
+menta abscissarum momentanea B (B) esse ut velocitates, quas
+punctum B in quovis axis loco, aut quovis temporis momento,
+habet, adeoque inassignabilis parvitatis, et similiter se rem habere
+cum ipsis GL incrementis ordinatarum ‚ seu excessu ordinatae (B) (G)
+super proxime (id est inassignabili intervallo) praecedentem BG.
+Haec incrementa , aut (si contrarium motum fingas ) decrementa,
+vel, ut generalius loquamur, elementa'sordinatarum vel abscissarum‚
+aut (si malis) differentias inassignabiles (quarum tamen ad alteras
+omnino assignabilis est ratio) notis designare volui, exprimentibus
+relationem ad id cujus sunt differentiae3 itaque ‚ quia abscissas AB
+vocavimus x, et ordinatas BC qs ‚ elementa abscissarum seu dif-
+ferentias minimas B(B) vocabimus clx-3 ct elementa ordinatarum
+seu differentias minimas GL vocabimus dy. Possemus ipsas da:
+vel dy peculiaribus exprimere literis ‚ ut e‚v‚ vel ut lubet, sed ita
+

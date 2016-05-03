@@ -1,0 +1,37 @@
+(307)
+
+tres exacte et ne souffre point de replique. Je m’etonne, aussi bien
+que vous , que personne ne l’ait encore rcmarque. Je n’ai point en·
+core lu ce livre, quoiqu'il soit fort petit et que l'autheur soit beau-
+coup de mes amis. J’avois toujours remis a le lire, lorsque j’aurois
+acheve certaines speculations , qui m'occupoient ‚ ce n’est pas que je
+n'eusse fort bien pu passer cet endroit, car il est facile de se trom-
+per lorsque la geometrie se trouve jointe ala phisique, et c'est nean-
+moins en cela que je fais consister sa plus grande utilite.
+
+Je vous suis fort oblige de ce que vous avez bien voulu me faire
+part de 13 maniere dont vous decrivez les courbes de Mr. Bernoulli,
+qui est sans comparaison meilleure que la sienne. Je n’ai pas eu
+de peine a comprendre la raison de la longueur des diametres que
+vous prescrivez pour les rouleaux, car elle saute d’abord aux yeux.
+J'ai aussi trouve plusieurs manieres de determiner le point C , dont
+voici 13 plus simple, et ou il n’est pas besoin de calcul. Je remarque
+que les tangentes CD de 13 partie AC et cd de 13 partie CQ ‚
+qui font entr'elles l’angle D,Cd , infiniment petit, ont pour difference
+la petite droite Ed, en menant DE perpendiculaire sur CD, et
+que , si l’on mene CL perpendiculaire sur AD, les triangles D de ,
+C DL seront semblables. Or ‚ par 13 propriete dela courbe ‚ Ad: d C
+=AD:DC=Ad-AD ou dD:Cd—CD0u Ed=DC2DL3 d'ou
+l'on voit que, sous le point C, les lignes AD, DC, DL sont en
+proportion continue, et par consequent, qu'il ne se rencontre que
+dans les lignes ou AD surpasse DC.
+
+Je suis parfaitement d’accord avec vous, Monsieur, sur ce que vous
+me mandez touchant la necessit& d'une seconde suitte pour les quadra·
+tures, outre celle de ΜΓ. Gregori, ou la miene ‚ qui est equivalente ,
+car lorsque je vous ai mande pouvoir demontrer qu'il en falloit une,
+ma raison etoit qu'en supposant tezo, on trouvoit une quantite
+constante, bien que l’on scust d’ailleurs que l'espace fust alors nulle,
+
+Qq2
+

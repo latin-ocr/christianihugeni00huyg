@@ -1,0 +1,40 @@
+(167)
+
+soutangente peut appartem'r, et son equation est 2ax-lx2=y2.
+Mais afin que vous voyies que j'ay approfondi ce problmne, et que
+ce n’est pas par quelque hazard que J’ay trouve ce cerole, je vous
+diray que la courbe n'est ordinaire, que dans ce seul cas, mais trans-
+
+cendante dans une infinite d’autreS. Je vous en donneray premie-
+
+adv
+a—v
+
+ 
+
+rement l'exemple le plus simple. Soit a· = ,Γ , (l) ou d :c = a d v:
+
+(ιι-υ), (2) il est manifeste que la lettre x signifie une grandem· qui
+est comme le logarsthme, pose qu’a—v soit le nombre, car cela
+depend de la quadrature de l’Hyperbole ou de la description de
+la ligne logarithmique. Cela pose ‚ je dis que la ligne, dont l'equation
+est γ2 = a 2-1- 2 a :c — ,τα - a v (3) , satisfait au probleme , et il est
+manifeste que cette ligne se peut construire‚ supposita Hyperbolae
+quadratura. Voiey comment Je prouve maintenant le succes par le
+calcul differentiel. Apres avoir differenti& l’equation (3) ‚ je
+trouve 2 y dy: 2a da· — 2x dx — a dv (4); dont ostant d v par
+l'equation (2) il y aura 2ydy=2adcc — 2.vdx-ad.v÷vdx(5).
+Et par cette derniere jointe a l'equation (3) ostant v, il y aura
+enfin y2a⁷x = a2dx-1- 2aoeda· - x2 da· - 2aydy÷2a2dx -
+2 a a· {lx — (ι2 da· ‚ ou bien ‚ apres les destructions dsles ε ψ da· -ι-
+,τ2 dx -ι- 2 a y dy = 2 a2 dx (6) ce qu’il falloit faire. Car il est ma-
+nifeste que dx : dy = 2 a .'¹l : (2 a2 -qs2 — αεὶ) , c’est ὸ. dire que la sous-
+tangente est 2 a 312 : (2 a2 — ψ - a2). La meme chose reussit dans
+une infinite d'autres lignes, prenaut l'arbitraire n, ot disant: y2=na
+-ι- 2 a a· — x² — n v. Mais n estant egal a rien ‚ il en provient le cer-
+cle. Quant aux dclx, j’en ay eu souvent besoin. Elles sont aux dx,
+comme les conatus de la posanteur ou les solicitations centrifugues
+sont a la vistesse. M. Bernoulli marque dans les Actes de Leipzig
+de l’annee passee p. 202. de les avoir employees pour les lignes des
+voiles. Et je les avois deja employees pour le mouvement des as-
+

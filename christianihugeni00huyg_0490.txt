@@ -1,0 +1,43 @@
+(146)
+
+Sit Ac(fig. 44 ) curva, quus diameter seu axis AB, BCapplicata‚
+dividatur AB in partes aequales in punctis b, b, b, etc„ itemque
+BC in partes tum inter Se, tum partibus ipsius AB aequales
+divisa concipiatur: ducantur per puncta b lineae bc parallelae
+BC, et per puncta k lineae kl parallelae AB3 denique singu-
+lae Bc, bc, vocentur a, singulae lh, lh, vocentur e, et J*
+significet summam; his positis, tres sequentes aequationes locum
+
+habebunt:
+la. Jaa=s2ae3 2³. sa³=s3aa23 3³. sa4=J¹4 a³ e.
+
+Haec jam theoremata Hugenius sequenti modo demonstravit.
+
+2> 10. Summa rectangulorum kl . kB sive rectarum e in distantias
+suas ab A B ‚ aequaliter crescentes, quae sunt a ‚ est aequalis ὲ summac
+quadratorum ab rectis c ὂ , quae dividunt ΑΒ iu partes aequales, Ratio
+intelligitur ex ungula 45Ω ( ¹ )‚ super figura ABC abscissa per AB ,
+quia ungula haec ‚ secta planis ad figuram rectis secundum lineas lh,
+facit summam rectangulorum kl. kB; eadem vero, secta planis ad
+figuram rectis secundum lineas b c, facit summam ὲ quadratorum ex
+l> c sive a ‚ utrimque nempe omnia ducta intelligenda in unam particu-
+larum Β C, vel A Β rectarum ι itaque ‚sa e z} J'a α. >>
+
+Idem theorema etiam ex alio principio petiit Hugenius , quod nempe
+summa productorum uniuscujusque rectae a per suum brachium
+super AB multiplicatae ‚ aequalis esse debeat summae productorum
+uniuscujusque e per brachium suum super AB multiplicatae 3 se-
+
+quentia enim adjecit:
+
+ 
+
+α 8
+>› {a brachia rectarum a super ΑΒ ; L brachia rectarum e super A B
+&aa ea
+
+ 
+
+(¹) Ejusmodi ungula 'etiam alia opportunitate usus est Euge-nius, nempe in suo
+Horol. (lsc. P. lV. def. 14. Cf. sup.. p. 73.
+

@@ -1,0 +1,38 @@
+(91)
+
+Porro data proprietate tangentium lineae curvae quaesitae, solet
+dari vol haberi aequatio exprimens relationem inter BT subtangen-
+tialem et AB vel BG abscissam vel ordinatam, aut ambas simul.
+vocemus autem subtangentialem ipsam ΒΤ, partem axis cadentem
+inter ordinatam BG ct tangentem GT. Itaque , si AB vocetur a: et
+BG y , et B T t, res redibit ad aequationem ‚ quam ex indeterminatis
+solae ingredientur at, q) ‚ t. Quo facto, quaeritur aequatio, quam,
+sublata t, duae tantum indeterminatae :c et y ingrediantur. Ita ex
+data proprietate tangentium habebitur curvae constructio.
+
+Ex aequationibus autem illis , quae exprimunt relationem ipsius t
+ad reliquas , eligamus illas simpliciores , in quibus valor ipsius t per
+,τ et y habetur purc; ut si sit t=aa:x, vel t=aae:y, vel
+t=yV(aa—-xx); vel tzyyls(aa—xx):ax‚ aliisque modis
+infinitis. Itaque id nunc agitur ut ex dato valore subtangentialis
+per abscissam, vcl ordinatam , vel ambas, detur aequatio exprimens
+relationem inter ordinatam ct abscissam.
+
+Habeo autem diversas vias, quibus magnum hoc problema in
+oblatis casibus aggredior. Sed hanc optimam esse judico, (quoties
+ea uti licet) ut problema tangentium inversum revocetur ad qua-
+draturas. Analysis enim duorum est generum, una per saltum,
+cum problema propositum resolvimus ad prima usque postulata 3
+altera per gradus, cum problema propositum reducimus ad aliud
+facilius. Et quia saepe fit, ut prior methodus prolixis nimis calcu-
+lis indigeat , confugiendum est non raro ad secundam 3 tametsi
+enim prior sit absolutior nec aliis indigeat praecognitis, commodior
+tamen est posterior, quia laborem minuit, jam inventis utendo.
+
+Ut vero intelligatur quomodo persaepe problema tangentium in-
+versum ad quadraturas revocari nullo negotio possit, dicendum est
+aliquid de quodam calculi genere a me introducto, notisque novis
+in eo adhibitis ; ita enim efficio, ut multa primo obtutu appareant,
+
+M 2
+

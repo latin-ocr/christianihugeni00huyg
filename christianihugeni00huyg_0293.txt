@@ -1,0 +1,34 @@
+( 283 )
+XXII.
+
+HUYGENS Au M. DE L'HOSPITAL.
+
+Iquwyclc 3 Septembre 1693.
+
+J 9ai receu ‚ Monsieur‚ celle que vous m’avez fait l'honneur de m'es-
+crire du 10 Aoust. Vous aurez aussi receu la miene du 5 du mesme ‚
+laquelle , si on vous l'eut apportee un peu plustost ‚ vous auroit
+epargne la peine de m’expliquer ce qui regarde l'invention de la
+courbe dont la soutangente est ‚fc—qs, dont je ne laisse pas *de vous
+estre oblige'. Pour mes autres doutes, vous verrez dans la mesme
+lettre que j’ay aussi trouve par vostre regle ‚ comment faire les
+sommes dans votre premiere quadratur-e de la feuille de Descartes.
+Et pour ce qui est dela difficulte touchant la 2⁶³ , J'ay trouve du depuis
+que ‚ lorsqu’on prend Β Ε pour qs ‚ (fig. 50) les sommes de -2a3 dz23 ι’
+et -ι-α4 dz: κδ dans vos positions , ne sont pas ÷}ax2:y—}x⁴:y2 ,
+mais {ax2zy--ga2 et -ὲω4εῃ2-ι-ὲα2, qui font {112ny
+- ὲ x 4 .· y 2 - ἑ, α 2 ‚ de sorte que ces sommes ne se prenent pas
+comme a l’ordinaire ‚ mais demandent qu'on y emploie d'autres moiens
+et d'autres considerations. Ce que sans doute >vous aurez aussi re-
+marque„ et qu'il faut rectifier de mesme vostre le. maniere lorsqu'on
+y veut trouver l'aire de l’espace A CB.
+
+Je m'estois aussi satisfait‚ devant que de recevoir vostre derniere
+lettre , sur la difficulte que je trouvois ὲ reduire l'equation differen-
+tielle mdy=gqs dm -1-{mdm ὲ ἀηΞὲφη-ὲ dm ‚ en supposant
+y :n mss. C'a este en me ressouvenant que V( m 2 -1-mdm) est
+=m÷gd m. Car cela m’a aide a demesler ce changement d’equa-
+
+tion, dans lequel autrementv je n'entendrois pas la raison de ce que
+N n 2
+

@@ -1,0 +1,54 @@
+(284)
+
+le calcul differentiel produit. J 'avois trouve en supposant y = η m⁶
+que dy: m ⁶dn÷ bnm⁶-¹ dm, mais qu’en supposant y=n⁰m⁶ ‚
+il vient dy=am⁶n‘¹-¹ dn ÷b n‘³m⁶-¹ dm, je ne le vois pas
+encore ‚ apparemment parce‘¹ que je ne suis pas assez verse dans le
+calcul exponentiel, qui me paroist difficile et fatigant.
+
+Pour ce qui est des suites pour 13 quadrature , voici celle de Mr.
+Gregori. Quand l’equation de la courbe est l= b x r >< ( s x '² -ι- a ) ”· ,
+l'area est:
+
+b >< s -1 >< :1:r÷¹-¹2 (n—r—l) >< bas—'xx'†¹-’⁵
+
+m oz -ι- r ÷ 1 (mmmm)
+
+(n—r—l) . (ἕλη-ν -— 1) >< ba2 xs-5>< ,τν-Ι-ι-ῦιι
+÷(Wmffl(mn÷r÷ l—2n)
+ou il faut scavoir , que , comme le premier terme est multiplie par
+(δι’ '² -ι- a)”²÷ ¹ ‚ ainsi tous les autres le doivent estre de mesme.
+
+(sxn÷a)⁷12÷¹><
+
+-Ι- etc.
+
+Il est evident que cette series est terminee lorsque r÷l=n ou
+=2n ou :3 n etc„ c'est-h-dire lorsque (ν-ι- 1) :n est un nombre
+entier et positis , et qu’alors on ala quadratum parfaite. Ce que je
+vois estre de mesme dans vostre seconde suite, car vostre ο est
+( r ÷ 1):n. Mais d’ailleurs il y a de la difference, comme vous ver-
+rez‚ Monsieur ‚ en comparant seulement le premier terme de celle de
+
+, , , b><(·2·'²-1-a)¹⁷‘÷¹><x'†¹*”
+Mr. Gregori ‚ qui, en neghgeant les s cst —----——-——---
+
+ 
+
+ 
+
+ 
+
+m n 4- r -ι- 1
+. zm—l-e: l · (xn÷a)nm-l-nr÷1
+avec le premler des vostres ‚ n >< m -l- c ‚ ou bien W
+n r -ι- l , ,
+parce que vous posez z = :c -ι- α et c = n . Je vous laisse a
+
+ 
+
+examiner cette difference et si vostre suite est sans faute, ce que
+vous verrez en essayant quelque quadratum connue ‚ ou l'aire em-
+brasse deux ou plusieurs termes. Car lorsqu'elle ne consiste que dans
+le premier , ceste-dire , quand r -l- l == n ‚ vos quadratures s'accordent.
+

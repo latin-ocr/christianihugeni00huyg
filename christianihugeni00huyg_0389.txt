@@ -1,0 +1,39 @@
+(⁴¹3)
+
+sumto in ὲ cycloide ΒΕΚ quovis puncto E, ponatur circulus ge-
+nitor, cum punctum describens esset in E, habere positum G EI),
+tangens circulum BL in D ‚ ,iunctaque E D , sit ei perpend. Ε G, quae
+quidem tanget ὲ cycloidem in E ‚ secabit autem circumferentiam Κ C in
+puncto contactus circuli DE, cum DEG sit semicirculus, propter
+angulum rectum DEG. Il faut donc seulement demontrer que E G
+estant prolongee rencontre la {- cycloide K F N a angles droits ‚ car il
+s'en suit de 13, que cette ξ cycloide se descrit par revolution de
+13 {- cycloide ΚΕ Β , par la ..... propos, de Evolutione Curvarum.
+
+SoitVG le cercle geniteur de la} cycloideKF N , et qu'il touche le
+cerole Κ C en G , et que EG prolongee coupe la circonference G V en H.
+
+Puisque donc l’arc BDL est egal a 13 demi-circonference D EG ‚ et
+que l’arc DB est egal a l’aro DE, par la nature de la cycloide 2
+l'arc D L sera aussi egal a l’arc EG. Mais l'arcEG est a l'arc GH,
+comme le diametre DG 3 GV; c'est-a-dire comme AD 3 AG, ou
+comme l’arc DL 3 l'arc GK. Dono les arcs E G , D L estant egaux ,
+les arcs GH, GK seront egaux de mesme. Donc le point H est
+le point trac-ant de 13 cycloide ΚΡ, lorsque son cei-cle generateur
+est en GV. Et par consequent la droite GH, qui est 13 continua-
+tion de E G ‚ rencontre 13 cycloide au mesme point H ὲ angles droits ,
+par nostre demonstration generale.
+
+Propos. 20. La courbe d’une epicycloide est au diametre de son
+cei-cle generateur comme deux fois la somme des diametres du cercle
+generateur et du cerole immobile, qui sert de base , au rayon du
+mesme cercle immobile.
+
+Il est evident que l’evolution de la demie epicycloide ΒΕΚ se
+terminant en N , la droite BN est egale a la courbe ΒΕΚ, Et
+parceque, comme AB ou Ao 3 AC ainsi est BC a CN; ainsi sera
+Ao a OC, comme CB a B N, c’est-a-dire CB ὲι 13 courbe ΒΕΚ, et
+pax-tant le double de cette courbe, ou l’epicycloide entiere BKP, au
+
+F 2
+

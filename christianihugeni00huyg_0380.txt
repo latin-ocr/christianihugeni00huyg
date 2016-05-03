@@ -1,0 +1,36 @@
+(34)
+
+Ergo ER semper quoque major DC sive EF , et idcirco puncta R
+et F non possunt coincideffi
+
+Postquam itaque vidimus pondera aequalia aequalibus internodiis
+ligata non pendere secundum lineam parabolicam ‚ quaeramus nunc
+quae internodiorum debeat ad invicem esse proportio, secundum
+quam pondera aequalia ex chorda religata secundum lineam para-
+bolicam pendeant.
+
+Propos. 4⁸. Sit igitur (fig. 16) data linea parabolica A B C D E F ‚
+cnjus axis horizonti perpendicularis, et sint nectenda ex chorda
+aliqua pondera quotlibet aequalia, quae ‚ si certa ratione quadam
+suspendantur, puncta, in quibus chordae alligatae sunt, omnia sint
+in data linea parabolica.
+
+Ducatur ζΖ , quae parabolam in vertice contingat, ideoque sit ad
+axem GC ad angulos rectos, et ponatur utcunque B C eique aequa-
+lis CD, ita ut puncta B et D sint in data parabola 3 dividatur
+porro CD bifariam in L et parallela axi Gc ducatur QLH ‚ quae
+a producta Bc secetur in H: fiat vero ut CH ad CB , ita HD ad
+DE , eaque ponatur in producta H D. D E rursus bifariam secetur ,
+inM et ducatur axi GC parallcla P 1 ‚ et ex 1 , ubi illa intersecatur
+a productae D ‚ ducatur per E linea I E NF, et sit ut I D ad D C sic
+I E ad E F. Ab altera parte axis similiter inveniatur punctum A , etc.
+Sic inventa puncta erunt in data parabolica linea, id enim simili
+modo probari potest, quo in 3ει prop. probatum est punctum R in
+eadem linea parabolica esse in qua puncta C, D ‚ E; haec enim simili
+modo , quo illud ‚ inventa sunt. si crgo per puncta A ,Β , C , D ‚ E , F
+chorda tendatur, et in unoquoque horum punctorum aequale pondus
+nectatur, et haec catena ex duobus quibuslibet eorundem punctorum
+(sumamus Α ct F) suspendatur, dico praestitum esse quod postuta-
+batur. Situm enim hunc retinebunt, cum ‚ ex constr. , bina quaeque
+internodia, puta Bc et ΕΙ), intermedio relicto uno C D, se inter-
+

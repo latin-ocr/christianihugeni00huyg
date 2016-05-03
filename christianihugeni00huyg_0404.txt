@@ -1,0 +1,13 @@
+(58)
+
+circuli sumatur DE ‚ apparet angulorum DEF, D E H, D EG csse
+sinus DF, DH, DG. Istis autem angulis aequales sunt, singulis
+singuli, P D N ‚ R Do ‚ QD M ‚ quorum sinus sunt N P ‚ Ο R , M Q.
+Ergo sicut sinus DF aequatur duobus DH, DG, ita sinus NP
+aequabitur duobus ΟΒ , MQ3 unde facile colligitur punctorum
+M‚0‚N centrum gravitatis esse in recta D L. Itaque, reperto hoc
+centro ‚ dabitur recta DL, quae tangenti DE est ad angulos rectos,
+
+Eadem vero est constructio, quotcunque data fuerint puncta,
+[e quibus rectae sunt] ad D ducendae, quarum summa est data.
+

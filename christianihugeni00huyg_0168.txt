@@ -1,0 +1,36 @@
+(158)
+
+logarithme et ’13 subnumerale. J’appelle icy la sousnumerale t,
+suppose que le nombre du logarithme est le quotient d' a divise
+par a - t.
+
+Il faut avouer , Monsieur‚ que vos decouvertes sur 13 quadrature dela
+galande de Mr. de Roberval sont extremement belles, j’entends 13
+ligne dont l’equation est :15³ ÷y³=nxy. Comme cette ligne est
+d’une nature simple et (1116 163 6001(101111663 y sont homoeoptotes
+comme dans le cerole, J’ay aussi voulu tacher‚ si j'en pourray trou-
+ver 13 quadrature, et j’en ay enfin trouve cette construction gene-
+rale, que (fig. 15) le triligne AB C DA est &gno y -ὲκῖ, comme le
+(1113116 (16 l’abscisse at, ouAB, est au quarre de l'ordonnee ps ou B C.
+
+Je n’ay garde de m’attribuer par avance la connoissance de cette
+source nouvelle ‚ que vous aves trouvee pour quantite de problemes
+(163 quadratures et des subtangentes. Il se pourroit que j’en scusse
+quelque chose , mais je craindray plustost que non3 car je voy qu'on
+peut employer quantite d’adresses particulieres ‚ et je ne doute point
+qu’il n'y en ait beaucoup qui me sont inconnues‚ quoy qu’il y 611
+311 311331 beaucoup que j’ay employees en temps et lieu. Je me sers
+quelques fois avec succes des series infinies. Car toutes les fois
+qu’on donne un probleme tangentiel‚ je puis trouver la courbe de—
+mandee per seriem infinitmn. Ce (1111 631 311 11101113 (16 grand usage
+pour 13 pracfique. Car je suppose γ = a -4- bx-l- cx2 ÷dx³÷ex⁴ etc.
+et par consequent j'ay aussi y2 ‚ y³ etc. item ,τγ2 , τι· y³ ‚ ,τα γ2 etc.
+J’ay aussi dy. Car dy est egal 3 dx multiplie par b -1-2cx-1- 3 dx²
+÷4ea7³ etc. et ddy est egal 3 1.2c÷2.3d.v-÷-3.4.eoe2 etc.
+multiplie par dx2 et ainsi de suite. Ayant donc mon equation dif-
+ferentielle delivree des frantiam, racines et sommes , et ordonnee
+
+en sorte qu’elle soit egale ὲ rien, et ayant explique' les termes οὺ
+ent-re γ ou cl y, en sorte qu'il ne reste d'autre indeterminee que ιε,
+ce qui fait evanouir dx, J’explique les arbitraires a, b , c, etc. en
+

@@ -1,0 +1,39 @@
+(93)
+
+non appareret relatio ad ,τ et y ‚ quae tamen ipsis notis expressa pluri-
+mum juvat, modumque dedit mihi curvas transcendentes exprimendi
+per aequationes finitaS, non alias adhibendo indefinitas quam x et y
+et harum affectiones ‚ inter quas non tantum potentias aut (his reci-
+procis ) radices ‚ ut 502, las-v, etc. sed et differentias et (his reciprocas)
+summas refero, harumque notas ad supplendum calculum promoven-
+damque ad transcendentes Analysin omnino aptas judico. Et quemad-
+modum non optime faceret qui pro ,v2 „25³ etc. ‚ semper vellet adhibere
+literas e, v ‚ ad evitandum hoc notationis genus ‚ licet admoneret se
+per e et v quadratum aut cubum intelligere ‚ ita similiter praestat
+saepe da: aut dclx (differentiam ‚ aut differentiam differentiarum
+ipsarum x) adhibere, quam pro ipsis uti literis e aut v vel simili-
+bus. Sic cycloidem exprimo per hanc aequationem y: ιβ (2x—xx)
+‚ -ι- J* ( d cc: ιβ (2 ,τ —xx )) , posito radium circuli generatoris esse
+l , et ,τ esse abscissam in axe inde a vertice , et y esse ordinatam
+ad axem , et dx esse incrementa abscissarum , et J'(dar: ιβ ( 2 a: — arx) )
+esse summam omnium dae:V(2.z·-:c:c)‚ seu quantitatem, cujus
+differentialis est ad differentialem abscissae, ut radius ad sinum ‚
+quae summa vel quantitas revera est arcus. Et hinc facillimo cal-
+culo sine ullo figurae respectu derivatur proprietas tangentium
+cycloidis nota ‚ quae nostro modo expressa ita habet , dx : dy
+
+ 
+
+Ξιῖ2ω-ωαςεῖτ. Caeteraque omnia circa* cycloidem inventa
+pluraque alia similiter ex tali calculo analytice derivantur.
+
+Sed ut nostrum institutum prosequamur. Producatur (B) (G )
+dum tangenti TG itidem productae occurrat in E, constat puncta
+(G) et E haberi posse pro coincidenfibus, seu rectam (G) G,
+quae jungat duo curvae puncta inassignabiliter distantia, produc-
+tam esse ipsam curvae tangentem. Cum dudum ab aliis explica-
+tum sit, rectam, quae curvam secat, in duobus punctiS‚ transire
+
+in tangentem eo casu, quo duo sectionis puncta coincidunt. Itaque
+Μ 3
+

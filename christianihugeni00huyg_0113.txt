@@ -1,0 +1,32 @@
+(103)
+
+J'xd y est la somme des tangentes , selon les sinus de complement,
+laquelle se trouve egale a la difference entre la somme des secan-
+tes selon les arcs et la somme des sinus de complement selon les
+arcs. Or cette derniere somme est trouvable absolument‚ donc la
+quadrature a laquelle vous reduises la chainette , depend de la
+somme des secantes selon les arcs , que j’ay reduite aux logarithmes.
+Et pour appliquer vostre equation a la chainette ‚ a: estant la lon·
+gueur de la chainette depuis le sommet‚ la somme des y (selon les at)
+sera l'ordonnee de la chainette, a estant l'unite ou le parametre.
+C'est ainsi que la quadrature dc vostre courbe donne la chainette.
+Je ne scay si J'ay devine vos raisonnemjens. Je suis avec zelee ες,
+
+XXX.
+
+HUYGENS A LEIBNIZ.
+
+Α la Haye , ce 16 Novembre 1691.
+
+MR. Je me suis ces 2 derniers mois abstenu de l’etude et du tra-
+vail ‚ ayant de la peine a conserver ma sante dans un temps ou une
+infinite de monde dans ce pais est tombee malade. C'est ce qui est
+cause que je respons si tard a vostre derniere lettre du ἐξ sept. Jc
+m’en vais maintenant le faire par ordre pour ne rien oublier; mais
+auparavant je vous remercieray d’avoir repare l'erreur de Mrs. de
+Leipsich‚ touchant ma Progession dans l’Hyperbole, et surtout de
+l’honncur que vous m’avez fait dans les acta de sept. dernier en
+publiant que mes escrits autrefois vous ont este de quelque utilite.
+Vous me parlez a propos de la courbure de la chalnette, de vostre
+discours de angulo contactus et osculi, qu’il me souvient d’avoir
+

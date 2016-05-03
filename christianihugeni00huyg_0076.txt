@@ -1,0 +1,48 @@
+(66)
+
+que description de la courbe et 3 13 marquer en quelque facon par
+points3 ou si Je m’en sers seulement a decider que la courbe est
+transcendante. Je reponds que les expressions exponentiales servent
+a trouver autant de points qu'on voudra d’une telle courbe, tout
+comme dans les helices et dans la quadratrice ‚ au lieu que les au-
+tres expressions ordinairement ne donnent pas des points verstables,
+mais seulement des points approchans 3 outre qu’elles ne sont pas si ma-
+niables par le calcul. Mais il sera bon d'expliquer dans un exemple
+la maniere de construire ou de marquer des points de 13 courbe
+susdite. Soit (fiq. 7)AC=A B= 1 representant 13 plus grande velocius,
+et BD, droite prise 3 discretim, soit ὂ. Supposons AC, BD paral-
+leles et cherchant entre elles des moyennes proportionnelles E F,
+G H, etc. decrivons la courbe des logarithmes CFHDP. Je (lis
+donc que prenant un point quelconque de cette courbe comme P,
+et en menant ἐι l'axe A Β 11113 ordonnee P T ‚ alors le logarithme ou
+
+l-f-z·
+
+-17
+
+l'abscisse AT sera t, et le nombre ou l'ordonnec T P sera
+
+ 
+
+quc
+
+nous appellerons 3. Or e estant assignee, il ne reste que de trou-
+
+3 -ι- l
+
+droite T P prolongee prenant T Κ, Τ Q egales 3 AC, et erigeant
+Q S normale 3 Q P et egale 3 A C, et joignant P S, qui coupera
+C Κ (parallelo 3 Α Β) 311 R, ct enfin dans T P prenant T V &gale ἐι
+l( R, il est manifeste que T V sera v, A T estant t,· c'est 3 dire
+A T estant comme les temps, T V seront comme les velocites, 31
+13 ligne AVV asymptote 3 C K scra la courbe demandce. Il n'cst
+guen-cs plus difficile (13 construirc les courbes exponentialement expri-
+
+verr, ce qui estaise'‚ car il y 31113 z· = ‚ c'est ἐι dire (13115 la
+
+ 
+
+mdes, qui satissont a une de vos soutangentes‚ et je m’imaginc
+qu'a present vous sere's plus content de ces sortes d'expressions.
+Je sei-ay bien aise ‹le scavoir si la rcgle renversee dcs tangentes
+

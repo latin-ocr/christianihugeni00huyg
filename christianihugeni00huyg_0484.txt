@@ -1,0 +1,35 @@
+(138)
+
+saepe usum te adverto in ejusmodi quadraturis formandis, unde
+aequationes curvarum oriantur, quae paucis terminis constent 3 nisi
+forsan aliunde , ut fit , quadraturas istas erueras. Nam contraria via
+ex aequatione ad quadraturam pergere , etsi nonnumquam contingat,
+vix id in tuis illis concedi crediderim, nee Tschirnhausio se hic
+J'actanti fidem habeo. Evenit quidem mihi, ut cum aequationem
+curvae 150. exempli tui celebri geometrae proposuissem, ille qua-
+draturam ejus ‚ qualis tua est, invenerit, cum et ego meam haberem,
+sed suspicor a posteriori, ex collectis tuo modo exemplis , id eum
+praestitisse. Quamquam autem innumeras curvas quadrabiles ita
+invenire liceat, non inde sequitur talem quadraturam effici posse,
+cui curva quaedam, quam tibi quadrandam proponiS, conveniat.
+Ac proinde non video ‚ quo pacto pag. 9, ex solutione problematis
+tui a posteriori, concludas omnium curvarum quadraturas haberi
+posse. Nam eX. gr. cum aequatio circuli sit Qay—qsyzscx‚ an
+putas quadraturam talem aliquam excogitari posse pag. 6³. vel δᾶ.
+
+ipsius verba legenda in Libro Advers. H. p. 14.) ΑΒ (fig. 41) est curva3 AC recta
+ad quain normalis applicata B C; atque productae occurrit· normalis curvae B D in D.
+Jam subnormalis, quarn dico C D, aequalis statuatur CF, eidem AC perpendicularis,
+idque sic ubique fieri intelligatur, et esse curvam ΒΕ ad quam omnes isiae subnot·-
+males erectae terminantur. Jam spatium AEFC erit aequale dimidio quadrato BC.
+
+Sit Aczs , C B=y ‚ CDzz. Ex puncto li proximo B cadat HG perpend. in
+Ac et (lucatur ΗΚ parallelo. AC. Janl G C differentiola τῶν ,τ est κ , et ΒΚ differen-
+tiela τῶν y est λ. Et quia triangula similia sunt H KB, Β CD erit, ut, B C y ad
+C D z, ita H K κ ad KB λ , unde y λ :z κ. Et summa omnium yn z: summae
+omnium z κ , hoc est {quadiu B C Ξ spat. A EF C. Est enim y λ reeiangulum exiguum
+L N ‚ facta LM z: L A :B C Ξ y ‚ nam M N :B l( z λ. Itemque zu est rectan-
+gulum seu spatiolum G F, atque ita singula rectangula exigua in triangulo ML Α
+
+aequalia respectivis spatiolis seu roctangulis iu spatio ΑΕ FC, uude et summa summae.
+

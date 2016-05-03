@@ -1,0 +1,36 @@
+(285)
+
+Je suis assure de celle de Mr. Gregori aussi dans les autres cas ‚ mais
+la vostre seroit plus simple. Vostre premiere suite est encore tres con-
+siderable ‚ pouvant servir , ainsi que vous 13 remarquez , lorsque l'autre
+est sans effet , pourvu que vostre m soit un nombre entier et positis.
+Mr. Gregori ne m'a point parle d’une suitte pareille ὲι celle -la , ni aussi
+de la 30. ‚ de 13 quelle aussi bien il n’a pas besoin. Et je crois qu’elle ne
+vous est pas necessaire non plus, parce qu’on peut scavoir d'ailleurs
+13 valeur de ces termes, qui ne constituent qu’une quantit& connue.
+
+J'avoue que la regle de Mr. Fatio est fort bornee‚ mais elle ne
+laisse pas d’avoir son usage, et il faudroit voir si elle ne sert pas
+quelquefois dans de rencontres ou la vostre ne succede point. Au
+reste le deguisement des soutangentes, 01¹1 ni l’une ni l’autre ‚ a ce
+qu’il semble, n'ont lieu ‚ se fait de cette maniere ‚ scavoir en substi-
+tuant dans quelque terme d’une soutangente 13 valeur de x ou y,
+nee d’un terme de l’equation de 13 courbe ‚ dont ce mesine terme de
+13 soutangente ‚n’est point procede. Par ex. si dans la soutangente
+21] 2 :(2 a — 2 x) ou y 2 : (a — x )‚ qui est tiree simplement de l’equa-
+tion du cercle 2ax - y 2 -— x 2 =O ‚ on substitue pour -- :c 53 valeur
+—y 2 :2a ‚ qui est nee du terme 2aoe, et non pas du terme —x2,
+d'ou estoit procede ce — :c (133513 d1‘viseur ‚ il viendra 13 soutangente
+2 a qs ² : ( 2a 2 -— y 2 — x 2) ‚ et de 13 l'equation differentielle intraitable
+2a2dx-yzdx—x2 ἀφ’-2391111130. La mesme chose arrive
+par de semblables substitutions heteroclites dans des soutangentes desia
+deguisees ‚ mais traitables. Et souvent en substituant derechef
+dans les intraitables‚ elles redevienent traitables‚ comme dans cette
+intraitable en substituant pour 2a daus 2a y 2 sa valeur (912 ÷x2): x.
+Je fis ces observations en m’exercant avec Mr. Fatio 3 faire des
+essais de sa regle. Je n’en ay pas encore recherche &fond les raisons,
+qu’il seroit bon de scavoir‚ ququu’il semble que presque jamais ees
+soutangentes intraitables ne s'offrent par quelque propriete de tan-
+
+N n 3
+

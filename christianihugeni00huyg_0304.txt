@@ -1,0 +1,36 @@
+(294)
+
+υ gentes MTdoubles des parties CT de l’axe. D'ou il est evident
+» que ma construction est conforme ὲ 13 votre en ce cas, et qu'elle
+ι» est beaucoup plus generale ‚ puisqu’elle donne touj0urs deux lignes
+x› courbes ou vous n’en trouvez qu’une. 4⁰. Ma premiere formule
+» donne x²÷y⁹= 124 ρ’, qui est une equation 3 un cerole, qui a
+» pour rayon 1:211, et ma seconde donne 313 verite un ligne droite
+» parassele ἐι CD3 mais elle satisfait aussi dans ce cas ‚ comme 11 est
+s> manifeste au plus petit geometre ‚ car si l’on mene d'un de ses points
+2> quelconques M une tangente MT, elle sera 13 droite mesme et
+³> n’ira rencontrer l’axe C D qu’& une distance infinie3 d’ou il suit que
+» ces deux lignes M T, CT seront egales entr’elles‚ puisqu’elles ne
+s> different que de 13 quantite PM, qui est finie.»
+
+Vous voyez, Monsieur ‚ que 13 construction de Mr. Jac. Bernouilli ,
+est moins generale que 13 mienne. Mais il me semble de plus qu’on
+pat-vient plus difficilement a l’equation qui exprime 13 nature de
+13 courbe. Car si l’on nomme AB, :c , BC, qs ‚ DC , z, on trouve
+
+selonluicesformulesy=((n÷ l)z-÷-(n— 1)ι9”“1-ι ) :(l-}-z·''¹) et
+
+z ² :qs Ἣ- x ² — 2nxz÷ n ² z ³ ‚ qui me paroissent moins simples que
+les miennes. Lorsque 13 raison ne s’exprime que par des lignes ‚ il
+faut du moins, pour avoir 13 valeur de DB ‚ employer 13 quadratum
+de l’hyperbole ou les logarithmes ‚ et il ne donne alors aucune con-
+struction , de sorte que ce n'est pas merveille s'il ne suppose point
+qu’on prenne des espaces hyperboliques egaux.
+
+Voici en abrege mon analyse : C P = 5! ‚ P M :x ‚ donc M Τ
+εῃν(ἀτυ’ ÷dy⁹):dyet CT=(xdy-—y d.z·): dy, etparlaconditinn
+du probleme yls(d:c’÷dy ⁹):xdy -qsdxzptq3 d’ou je tire,
+(en supposant pour abl-eger p ⁹ q ²=m²) dx²— 2p²atdy d.v:m⁸y
+=(q ⁹ y ¹ ‹iffi-pm· ⁵ dy⁹):m ψ’ , et 13 resolution· de cette egalite ‚
+(dont je regardo clx comme l'inconnue) me donne m⁰ yd :6:11⁹er y
+

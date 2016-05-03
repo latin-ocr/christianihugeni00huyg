@@ -1,0 +1,33 @@
+(89)
+
+Sed quia semper tantum unam d amplius auferendo, oritur s-d
+multiplex per numerum competentem progressionis 1, 2, 4, 8,
+16 etc. -ξ- d, cl autem infinite parvum fit respectu multiplicis ⁸3
+hinc patet multiplicem s-d‚ seu msc—md, tandem accipi posse
+pro m ε- m (1-1- d (m numerus seriei l ‚ 2, 4 , 8 , 16 , etc.). Itaque
+si velim comparare primum summam secantium ad gradus integros ,
+cum summa totidem radiorum ‚ erit earum ratio ut s ad n r ‚ (ponendo
+s= summae, r= radio, n: numero graduum in arcu proposito.)
+At si velim comparare summam secantium ad infinite parvas par-
+ticulas graduum, cum summa totidem radiorum, earum ratio erit
+proxime quae ms—md ad amr, hoc est quae 2—11 an nr, cum
+alioqui ratio ista esset ut S ad nr.
+
+Itaque cum ad arcum 450 summa secantium ad gradus singulos
+seu s, sit inventa 507081503 ad datum radium 10000000, et toti-
+
+dem radii faciant 450000000=nr‚ d autem seu ἐ DC tunc sit
+20710683 siah S auferatur haec d, fiet 505010435, quae ad
+
+450000000 proxime majorem rationem habebunt, quam summa se-
+cantium crescentium cum minimis particulis graduum usque ad 45
+gradus ad summam totidem radiorum.
+
+Sed adhuc propius accedemus ‚ si sit s summa secantium ad singu-
+los dimidios gradus, quam invenimus additione ex tab. sinuum esse
+1012061091‚ tunc enim n = 90, et n r -·-· 90000000, et s—d
+:100999023. Eritque ratio summae secantium ad minimas parti-
+
+culas graduum ad summam totidem radiorum proxime maJ’or ut
+1009990023 ad 900000000, hoc est ut 504995012 ad 450000000, »
+

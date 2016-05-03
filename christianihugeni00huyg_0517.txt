@@ -1,0 +1,41 @@
+(1⁷3)
+
+inter duas datas. Sint ex. gr. P 1¹2, Q R. Statuantur ad curvam
+perpendiculares iis aequales S Τ , VX, ct intervallum ΤΧ , quo inter
+se distant ‚ dividatur in partes aequales, una plures quam quot medias
+quaerimus, Velut si duas, oportet dividi in tres partes, ut hic
+punctis Δ,Ζ, e quibus eductae ad lineam perpendicularem ΔΓ,
+ΖΥ, erunt mediae duae quaesitae inter ST, VX, sive LR, QR.
+Quod facile demonstratur, quia inter X V, TS cadit series infinita
+proportionalium ex natura lineae ‚ earumque totidem inter X V ‚ Z Y,
+quot inter ZY, ΔΓ ac inter ΔΓ, '1⁸83 totidem, inquam, quia
+partes XZ, ΖΔ, ΔΤ sunt aequales, innumeraeque illae propor-
+tionales aequalibus intervallis a so mutuo distant.
+
+TA ‚ X A, considerandae sunt ut Logarithmi linearum TS, XV,
+et intervallum ΤΧ ut differentia lugaritlunorum1 Ubicumque binae
+
+perpendiculares intervallo eodem ‹lissitae erunt, habebunt eandem
+inter se rationem. Sic sicubi duae distiterint intervallo aequali A B ‚
+
+earum major minoris dupla erit, quia nempe BF est dupla ΑΚ.
+
+Recta R A est curvae Asymptotos.
+
+Spatia duo quaevis a binis perpendicularibus intercepta ‚ quae
+aequalibus intervallis distant , ut sunt spatia T S r A ‚ YZ X V ,
+cam inter se rationem habent, quam major unius perpendicularis
+ad majorem perpendicularem alterius ‚ vel quam minor ad minorem.
+Facillime demonstratur.
+
+Spatium quodvis a binis perpendicularibus interceptum est ad
+spatium deinceps decrescens in infinitum ‚ ut differentia perpendicula-
+rium ad perpendicularem minorem, Sic spatium ST Δ Γ est ad spatium
+infinitumr ΙΙ Κ ΩΔ ut S Θ ad Γ Δ. si enim aequalibus intervallis ipsi
+r’A constituantur perpendiculares YZ ‚ V X, ΙΕ , etc. in infinitum3
+quia spatium S T Δ Γ ad spatium Γ Ζ ut S T ad Γ Δ , per praeced. ‚ hoc
+est ut So ad r A ‚ quia tres ST, ΓΔ , YZ sunt proportionales 3 et
+rursus, spatium ΓΖ ad Yx sicut rA ad Yn, ideoque spatium S Δ
+
+Y 3
+

@@ -1,0 +1,50 @@
+ζ 26 )
+lustrabitur, cnjus solutionis exhibendae gratia totam hanc suscepi-
+
+mus disputationem. Quaeritur itaque quomodo tangens ducenda sit
+
+ad curvae punctum ‚ cujiis aequatio est
+abed
+
+abc÷abd÷acd÷bcd=--—-g ·
+
+in qua, (fig. 12) BH=a,AH=b ‚ LH=0,MH=d‚ sunt quan-
+titates variabiles: B N=n , A N = ο , L N: m ‚ M N =q , sunt quan-
+titates datae atquc constantes. Jam sit H punctum curvae, et K
+aliud punctum priori proxime adJacens, nec nonin curvae tangente
+K H positum. H Ο sit normalis curvae in H , adeoque tangenti
+ad angulos rectos insistens· HN=p sit ordinata , adeoque 0N=x
+subnormalis.
+
+Fingamus jam rectam BHaugeri quantitate PH=e3 tum, si e
+Κ ducantur perpendiculares KX, Κ W ‚ Kv in rectas HA , HL,
+H M , variationes simultaneae ‚ quas hae patientur ‚ exprimentur
+respective lineolis ΗΧ, H W , HV ‚ quarum valeres J'am exhibendi
+sunt functione variationis arbitrariae e ‚ subnormalis cc ‚ et quantita-
+tum constantium. Nihil vero facilius. Etenim si ex Ο in rectas
+H B ‚ H A ‚ H L ‚ H M , dimittantur perpendiculares Ο R ‚ OS ‚ Ο Τ ,
+OU, e triangulis similibus seq'nentes deducemus proportiones:
+
+p(w—-n)
+
+ 
+
+BH2HN=OB:OR‚ sive atp=x-—-n:
+
+a
+
+AHzHN=0A:OS, ‚‚ bzpzo—xtp*(⁰;³)
+
+LH:HN=0L:0T‚ ,‚ czpzm—xzp(m-⁹³)
+
+C
+
+MH2HN=0M:ou‚ ‚‚ a2p25-22pwgw)
+
+Sunt vero etiam triangula H Ο R et Κ Η Ρ , H Ο S et Κ Η X ‚ ΗΟ Τ et
+Κ H W ‚ H Ο U et K H V similia. Hinc
+
+ 
+
+ 
+
